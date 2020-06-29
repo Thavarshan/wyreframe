@@ -1,0 +1,17 @@
+{
+  "name": "thavarshan/wyreframe",
+  "version": "1.0.0",
+  "description": "Twitter Bootstrap like grid components",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thavarshan/wyreframe.git"
+  },
+  "keywords": ["grid", "bootstrap"],
+  "author": "Thavarshan Thayananthajothy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thavarshan/wyreframe/issues"
+  },
+  "homepage": "https://github.com/Thavarshan/wyreframe#README"
+}
