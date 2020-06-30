@@ -9,7 +9,7 @@ The Bootstrap CSS framework grid component extracted for standalone use and with
 Just pull it into your project.
 
 ```
-npm i grid -D
+npm i @thavarshan/wyreframe@1.0.0
 ```
 
 ### Usage
@@ -17,7 +17,7 @@ npm i grid -D
 Import it into your sass file and compile it. Piece of cake.
 
 ```
-@import '~grid/base';
+@import '~@thavarshan/wyreframe/base';
 ```
 
 ## Authors
